@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e505a05dd6cf9498aa9ac1bca7f010, type: 3}
+  m_Name: sword 2
+  m_EditorClassIdentifier: 
+  itemName: gold sword
+  stackable: 0
+  id: 4
+  slotImg: {fileID: 6589677396034958218, guid: 14eeb30389ef8434e933339df992ee24, type: 3}
+  type: 2
+  description: 
+  message: 
+  data:
+    name: sword2
+    reskin: 
+    prices:
+      buyPrice: 25
+      sellPrice: 18
+      totalPrice: 25
+    ID: 4
+    buffs: []
+    rarity:
+      name: uncomon
+    weaponStats:
+    - attributes: 0
+      value: 20
+    - attributes: 1
+      value: 0.11
+    - attributes: 2
+      value: 0.8
+    - attributes: 3
+      value: 14
+    spellStats: []
+    bombStats: []

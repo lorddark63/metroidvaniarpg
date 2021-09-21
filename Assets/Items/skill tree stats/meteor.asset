@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9015346e26d77f54d9571bc30dae7e45, type: 3}
+  m_Name: meteor
+  m_EditorClassIdentifier: 
+  skillId: 0
+  skillSprite: {fileID: 21300000, guid: 07b058c54b755d643861a58856046926, type: 3}
+  skillName: meteor
+  skillLevel: 2
+  maxLevel: 2
+  xpCost: 1
+  skillDesc: aumenta o dano em 5% e aumenta a intensidade sod meteoros
+  isUnlocked: 1
+  preSkills: []
